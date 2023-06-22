@@ -1,0 +1,37 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    h1 {
+        font-size: 40px;
+    }
+}
+
+li {
+    list-style-type: none;
+    font-size: 40px;
+    display: inline;
+}
+
+#home {
+    background-color: red;
+}
+
+#about-us {
+    background-color: beige;
+}
+
+#contact-info {
+    background-color: blue;
+}
+
+.lesson {
+    width: 200px;
+    height: 100px;
+}
+
+.text-purple {
+    color: purple;
+}
+
+.text-yellow {
+    color: yellow;
+}
